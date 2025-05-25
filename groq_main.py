@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 import json
 import time
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 import re  # For regex used in CSS injection
 import urllib.parse  # For URL encoding
 import requests  # For requests library
